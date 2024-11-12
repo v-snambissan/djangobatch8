@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'SN-django-githubactions'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F765C371DAD049559902A14A010A6076 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6BF22D379404B4BA5C8C9430B67844F }}
